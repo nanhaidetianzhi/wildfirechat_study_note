@@ -1,0 +1,16 @@
+野火 im  http://docs.wildfirechat.cn
+
+
+
+
+https://webrtc.github.io/samples/src/content/peerconnection/trickle-ice/
+
+47.103.98.32
+
+
+docker run   -d --network=host   -e USERNAME=nanhaidetianzhi   -e PASSWORD=YTJX5jBWWdW*RofZ   --restart=always   --name coturn   boldt/coturn
+
+ 
+ 
+
+                                                                                                                男孩的天职ְ  2019-05-19
